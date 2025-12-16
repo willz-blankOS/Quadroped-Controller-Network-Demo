@@ -1,0 +1,19 @@
+[project]
+name = "rl"
+version = "0.1.0"
+description = "A reinforcement learning library for spot robots."
+authors = [
+    {name = "Williams Edi", email = "williams.edi012@gmail.com"}
+]
+readme = "README.md"
+
+[build-system]
+requires = [
+    "setuptools>=42", 
+    "wheel",    
+]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["rl"]
