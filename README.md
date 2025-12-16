@@ -1,2 +1,2 @@
 # Spot-Controller-Network
-Demo Network for Controlling Boston Dynamics Spot Movement Using Reinforcement Learning
+Demo Embodied Network for Autonomous Control of a Unitree Go2 Robot
